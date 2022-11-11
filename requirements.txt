@@ -1,0 +1,6 @@
+torch==1.13.0
+torchvision==0.14.0
+streamlit==1.14.0
+pillow=9.3.0
+matplotlib==3.6.2
+PyYAML==6.0
